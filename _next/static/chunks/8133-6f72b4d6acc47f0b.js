@@ -211,7 +211,7 @@
                       className:
                         "flex items-center text-xs text-[#8C8C8C] tracking-[0.05em] mr-[8px]",
                       children: [
-                        (0, s.jsx)("div", { children: "\xa9 2024 Orderly" }),
+                        (0, s.jsx)("div", { children: "\xa9 2024 Astra AI" }),
                         (0, s.jsx)("div", {
                           className: "hidden md:block",
                           children: (0, s.jsx)(c, {}),
